@@ -1,0 +1,26 @@
+# WoW Nice Kit
+helmet1: 302
+Chestplate1: 307
+Leggings1: 300
+Boots1: 317
+sword1: 268
+food1: 364
+# Nice Kit
+helmet2: 302
+Chestplate2: 315
+Leggings2: 300
+Boots2: 309
+sword2: 272
+food2: 366
+# Bad Kit
+helmet3: 310
+Chestplate3: 299
+Leggings3: 316
+Boots3: 309
+sword3: 267
+food3: 260
+# Sign
+line1: §l§6[§bLucky§cKit§d-§eDP§6]
+line2: §l§aTab §cto §btake §5kit
+line3: §l§dDev§aeloper §6Team
+line4: §l§aBy JUZEXMOD
